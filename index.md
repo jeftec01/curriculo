@@ -9,7 +9,7 @@
     </head>
     <body>
        
-        <h1 style='color:darkblue'>Jefferson Elifas P. de Oliveira</h1>
+        <h1>Jefferson Elifas P. de Oliveira</h1>
 
             <h2>Atualmente</h2>
             Suporte Operacional em Hardware e Software<br>
@@ -30,10 +30,13 @@
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
                         Período: Novembro de 2017 - Até o presente momento atuando<br>
-                        Manutenção de computadores e dispositivos avançados<br>
-                        Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de                                                               sistemas em geral.<br>
-                        Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores                e servidores.<br>
-                        Desenvolvimento de soluções Linux e Windows</p>
+                        <ul>    
+                        <li>Manutenção de computadores e dispositivos avançados</li>
+                        <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
+                        <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores e servidores.</li>
+                        <li>Desenvolvimento de soluções Linux e Windows</li>  
+                        <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores                e servidores.</li>
+                        <ul>
                 
                 <h3>Prefeitura Municipal de Fortaleza</h3>
                     <p>Gerente de Tecnologia na SECUTLFOR - <strong>Secretaria de Cultura de Fortaleza</strong><br>
@@ -45,15 +48,15 @@
                         Período: Julho de 2001 - Fevereiro de 2015<br>
                         Atribuições<br>
                         <ul>    
-                            <li>Manutenção de computadores e dispositivos avançados</li>
-                            <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
-                            <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores e servidores.</li>
-                            <li>Desenvolvimento de soluções Linux e Windows</li>  
+                        <li>Manutenção de computadores e dispositivos avançados</li>
+                        <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
+                        <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores e servidores.</li>
+                        <li>Desenvolvimento de soluções Linux e Windows</li>  
                         </ul>
                 <h3>UFMG Universidade Federal de Minas Gerais</h3>
-                    <p>Instruto<br>
-                       Atribuições<br>
+                    <p>Instrutor<br>
                        2004 - 2004 (menos de um ano)<br>
+                       Atribuições<br>
                        Ministrando Curso de Hardware em Fortaleza para alunos monitores do projeto internet nas escolas.</p>
 
                 <h3>INSOFT Instituto do Software do Ceará</h3>
