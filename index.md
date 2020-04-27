@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
@@ -32,18 +31,19 @@
         <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
                         Período: Novembro de 2017 - Até o presente momento atuando<br>
                         Manutenção de computadores e dispositivos avançados<br>
-                        Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de sistemas em geral.<br>
-                        Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores e servidores.<br>
+                        Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de                                                               sistemas em geral.<br>
+                        Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores                e servidores.<br>
                         Desenvolvimento de soluções Linux e Windows</p>
                 
                 <h3>Prefeitura Municipal de Fortaleza</h3>
-        <p>Gerente de Tecnologia na SECUTLFOR - <strong>Secretaria de Cultura de Fortaleza</strong><br>
+                    <p>Gerente de Tecnologia na SECUTLFOR - <strong>Secretaria de Cultura de Fortaleza</strong><br>
                         Período: Março de 2015 - Janeiro de 2017 (1 ano 11 meses)<br>
                         Gerenciamento da Equipe de T.I. da Secretaria de Cultura da Prefeitura deFortaleza</p>
 
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
                         Período: Julho de 2001 - Fevereiro de 2015<br>
+                        Atribuições<br>
                     <ul>    
                         <li>Manutenção de computadores e dispositivos avançados</li>
                         <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de sistemas em geral.</li>
