@@ -37,6 +37,7 @@
                         <li>Desenvolvimento de soluções Linux e Windows</li>  
                         <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores                e servidores.</li>
                         <ul>
+                        </p>
                 
                 <h3>Prefeitura Municipal de Fortaleza</h3>
                     <p>Gerente de Tecnologia na SECUTLFOR - <strong>Secretaria de Cultura de Fortaleza</strong><br>
