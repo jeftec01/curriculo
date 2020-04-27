@@ -4,7 +4,7 @@
         <meta name="description" content="Curriculo Jefferson Elifas">
         <title>Jefferson Elifas P. de Oliveira</title>
         <style>
-            h2{color:blue}
+            h2{color:darkgrey}
         </style>
     </head>
     <body>
