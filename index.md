@@ -30,6 +30,7 @@
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
                         Período: Novembro de 2017 - Até o presente momento atuando<br></p>
+                        <strong>Atribuições</strong><br>
                         <ul>    
                         <li>Manutenção de computadores e dispositivos avançados</li>
                         <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
