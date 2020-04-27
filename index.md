@@ -29,15 +29,15 @@
             <h2>Experiência</h2>
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
-                        Período: Novembro de 2017 - Até o presente momento atuando<br>
+                        Período: Novembro de 2017 - Até o presente momento atuando<br></p>
                         <ul>    
                         <li>Manutenção de computadores e dispositivos avançados</li>
                         <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
                         <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores e servidores.</li>
                         <li>Desenvolvimento de soluções Linux e Windows</li>  
                         <li>Experiência em infraestrutura lógica e demais serviços que englobem o ambiente de redes com computadores                e servidores.</li>
-                        <ul>
-                        </p>
+                        </ul>
+                        
                 
                 <h3>Prefeitura Municipal de Fortaleza</h3>
                     <p>Gerente de Tecnologia na SECUTLFOR - <strong>Secretaria de Cultura de Fortaleza</strong><br>
@@ -46,7 +46,7 @@
 
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
-                        Período: Julho de 2001 - Fevereiro de 2015<br>
+                        Período: Julho de 2001 - Fevereiro de 2015<br></p>
                         Atribuições<br>
                         <ul>    
                         <li>Manutenção de computadores e dispositivos avançados</li>
