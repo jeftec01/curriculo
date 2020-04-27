@@ -62,21 +62,23 @@
                        Ministrando Curso de Hardware em Fortaleza para alunos monitores do projeto internet nas escolas.</p>
 
                 <h3>INSOFT Instituto do Software do Ceará (FREELANCER)</h3>
-                    <p> Sup. Operacional em Hardware e Software
+                    <ul>
+                        <li>Sup. Operacional em Hardware e Software
                         2001 - 2001 (menos de um ano)<br>
                         <strong>Atribuições</strong><br>
                         Estruturação e Montagem das primeiras instalções de rede Lógica das
-                        escolas públicas do estado do Ceará.
-                        Sup. Operacional em Hardware e Software
+                        escolas públicas do estado do Ceará.<\li>
+                        <li>Sup. Operacional em Hardware e Software
                         2000 - 2001 (1 ano)<br>
                         <strong>Atribuições</strong><br>
                         Manutenção do parque tecnológico das escolas públicas do estado do Ceará
-                        no projeto Matricula Informatizada 2000.<br>
-                        Instrutor
+                        no projeto Matricula Informatizada 2000.<\li>
+                        <li>Instrutor
                         2000 - 2001 (1 ano)
                         <strong>Atribuições</strong><br>
                         Responsável pelo treinamento dos usuários do sistema de Matrícula
-                        Informatizada.</p>
+                        Informatizada.<\li>
+                    </ul>
 
             <h2>Formação acadêmica</h2>
                 <h3>FACULDADE EVOLUÇÃO</h3><br>
