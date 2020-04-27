@@ -78,9 +78,8 @@
                         Informatizada.</p>
 
             <h2>Formação acadêmica</h2>
-                <h3>Graduação, Informaticas - Redes de Computadores · (2011 - 2015)</h3>
-                FACULDADE EVOLUÇÃO<br>
-                Grasuação, Gestão de Redes e Segurança de Sistemas · (2013 - 2015)
+                <h3>FACULDADE EVOLUÇÃO</h3><br>
+                Graduação, Gestão de Redes e Segurança de Sistemas · (2013 - 2015)
                 
 
         </body>
