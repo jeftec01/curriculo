@@ -61,7 +61,7 @@
                        <strong>Atribuições</strong><br>
                        Ministrando Curso de Hardware em Fortaleza para alunos monitores do projeto internet nas escolas.</p>
 
-                <h3>INSOFT Instituto do Software do Ceará</h3>
+                <h3>INSOFT Instituto do Software do Ceará (FREELANCER)</h3>
                     <p> Sup. Operacional em Hardware e Software
                         2001 - 2001 (menos de um ano)<br>
                         <strong>Atribuições</strong><br>
