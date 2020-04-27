@@ -4,7 +4,7 @@
         <meta name="description" content="Curriculo Jefferson Elifas">
         <title>Jefferson Elifas P. de Oliveira</title>
         <style>
-            h2{color:darkgrey}
+            h3{color:darkgrey}
         </style>
     </head>
     <body>
@@ -23,7 +23,7 @@
             <h2>Contato</h2>
             <p>85-981338082 (Mobile)<br>
             jeftec01@gmail.com<br>
-            <a href=www.linkedin.com/in/jefferson-elifas-p-de-oliveira>
+            <a href=https://www.linkedin.com/in/jefferson-elifas-p-de-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkK7Fg%2F%2BiS7alK%2FDi2DoapA%3D%3D>
                Meu LinkedIn</a></p>
 
             <h2>Experiência</h2>
