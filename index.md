@@ -47,7 +47,7 @@
                 <h3>Governo do Estado do Ceará</h3>
                     <p>Sup. Operacional em Hard. e Soft. na SEDUC - <strong>Secretaria da Educação do Ceará</strong><br>
                         Período: Julho de 2001 - Fevereiro de 2015<br></p>
-                        Atribuições<br>
+                        <strong>Atribuições</strong><br>
                         <ul>    
                         <li>Manutenção de computadores e dispositivos avançados</li>
                         <li>Instalação de software e dispositivos de redeTreinamento e orientação a usuários quanto ao uso de         sistemas em geral.</li>
@@ -57,23 +57,23 @@
                 <h3>UFMG Universidade Federal de Minas Gerais</h3>
                     <p>Instrutor<br>
                        2004 - 2004 (menos de um ano)<br>
-                       Atribuições<br>
+                       <strong>Atribuições</strong><br>
                        Ministrando Curso de Hardware em Fortaleza para alunos monitores do projeto internet nas escolas.</p>
 
                 <h3>INSOFT Instituto do Software do Ceará</h3>
                     <p> Sup. Operacional em Hardware e Software
                         2001 - 2001 (menos de um ano)<br>
-                        Atribuições<br>
+                        <strong>Atribuições</strong><br>
                         Estruturação e Montagem das primeiras instalções de rede Lógica das
                         escolas públicas do estado do Ceará.
                         Sup. Operacional em Hardware e Software
                         2000 - 2001 (1 ano)<br>
-                        Atribuições<br>
+                        <strong>Atribuições</strong><br>
                         Manutenção do parque tecnológico das escolas públicas do estado do Ceará
                         no projeto Matricula Informatizada 2000.<br>
                         Instrutor
                         2000 - 2001 (1 ano)
-                        Atribuições<br>
+                        <strong>Atribuições</strong><br>
                         Responsável pelo treinamento dos usuários do sistema de Matrícula
                         Informatizada.</p>
 
