@@ -4,7 +4,7 @@
         <meta name="description" content="Curriculo Jefferson Elifas">
         <title>Jefferson Elifas P. de Oliveira</title>
         <style>
-            h3{color:darkgrey}
+            h3{color:aqua}
         </style>
     </head>
     <body>
@@ -14,11 +14,11 @@
             <h2>Atualmente</h2>
             Suporte Operacional em Hardware e Software<br>
             SEDUC Secretariade Educação do Ceará<br>
-            Fortaleza, Ceará, Brasil
+            Fortaleza, Ceará, Brasil<br>
 
             <h2>Resumo</h2>
             Gosto do que faço e creio que por isso as dificuldades são enfrentadas com mais atenção e agilidade.<br>
-            Ter honestidade com oque se faz é o mesmo que acreditar que está fazendo algo que valea pena em sua vida!
+            Ter honestidade com oque se faz é o mesmo que acreditar que está fazendo algo que valea pena em sua vida!<br>
 
             <h2>Contato</h2>
             <p>85-981338082 (Mobile)<br>
